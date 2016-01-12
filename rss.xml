@@ -2,14 +2,14 @@
     <channel>
         <title><![CDATA[Duling Creative]]></title>
         <description><![CDATA[Duling Creative]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/duling-creative/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jan 2016 02:57:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Jan 2016 12:56:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/duling-creative/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Duling Creative]]></title>
-            <description><![CDATA[<article><h1>Duling Creative</h1><p>let the creativity run free</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9bc0866b-36c6-467b-bf4f-a6cf81c6ea49.jpg"></article>]]></description>
-            <link>undefinedduling-creative/index.html</link>
+            <description><![CDATA[<article><h1>Duling Creative</h1><p>let the creativity run free</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/51c180c9c3989e66affefa6e1b85ea94b79c6c0e.jpg"></article>]]></description>
+            <link>https://thegrid.ai/duling-creative/duling-creative/index.html</link>
             <guid isPermaLink="false">e47f0cbe-4cd8-496f-ab4c-56479732d70e</guid>
             <pubDate>Tue, 12 Jan 2016 02:57:10 GMT</pubDate>
         </item>
