@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Duling Creative]]></title>
+        <description><![CDATA[Duling Creative]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 12 Jan 2016 02:57:19 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Duling Creative]]></title>
+            <description><![CDATA[<article><h1>Duling Creative</h1><p>let the creativity run free</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9bc0866b-36c6-467b-bf4f-a6cf81c6ea49.jpg"></article>]]></description>
+            <link>undefinedduling-creative/index.html</link>
+            <guid isPermaLink="false">e47f0cbe-4cd8-496f-ab4c-56479732d70e</guid>
+            <pubDate>Tue, 12 Jan 2016 02:57:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
