@@ -4,7 +4,7 @@
         <description><![CDATA[Duling Creative]]></description>
         <link>https://thegrid.ai/duling-creative/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jan 2016 14:09:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jan 2016 15:03:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/duling-creative/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Duling Creative]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/duling-creative/duling-creative/index.html</link>
             <guid isPermaLink="false">e47f0cbe-4cd8-496f-ab4c-56479732d70e</guid>
             <pubDate>Tue, 12 Jan 2016 14:09:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The 909 Moose was developed as a symbol for the guys who I lived with when I was in college. </p>]]></description>
+            <link>https://thegrid.ai/duling-creative/70ee0c75-428b-4ff3-a554-c9142e5f850f/index.html</link>
+            <guid isPermaLink="false">70ee0c75-428b-4ff3-a554-c9142e5f850f</guid>
+            <pubDate>Tue, 12 Jan 2016 15:02:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
