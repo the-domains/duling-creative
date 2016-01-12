@@ -1,0 +1,28 @@
+name: Duling Creative
+favicon: null
+layout_spectrum: 0.1800282164476812
+typography_spectrum: 0.627243619877845
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6622968642041087
+  lightness: 0.24539088550955057
+  saturation: 0.9510468244552612
+  rhythmicContrast: 0.32266267063096166
+purpose: []
