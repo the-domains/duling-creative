@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-13T20:54:05.353Z'
-dateModified: '2016-01-13T20:54:02.022Z'
+datePublished: '2016-01-13T20:56:50.421Z'
+dateModified: '2016-01-13T20:56:44.066Z'
 title: Duling Creative logo concepts
 author: []
 sourcePath: _posts/2016-01-13-duling-creative-logo-concepts.md
