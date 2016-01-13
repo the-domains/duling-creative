@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-13T20:17:43.981Z'
-dateModified: '2016-01-13T20:17:31.090Z'
+datePublished: '2016-01-13T20:54:05.353Z'
+dateModified: '2016-01-13T20:54:02.022Z'
 title: Duling Creative logo concepts
 author: []
+sourcePath: _posts/2016-01-13-duling-creative-logo-concepts.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-13-duling-creative-logo-concepts.md
-published: true
 url: duling-creative-logo-concepts/index.html
 _type: Article
 
