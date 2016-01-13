@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Duling Creative was developed as a way to display my own personal work from the past as well as giving a glimpse into the future of where my art is going.
-datePublished: '2016-01-13T20:51:01.930Z'
-dateModified: '2016-01-13T20:50:55.748Z'
+datePublished: '2016-01-13T20:51:58.776Z'
+dateModified: '2016-01-13T20:51:55.418Z'
 title: Duling Creative
 author: []
 sourcePath: _posts/2016-01-12-duling-creative.md
