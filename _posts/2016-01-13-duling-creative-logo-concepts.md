@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-18T14:02:29.246Z'
+datePublished: '2016-01-18T14:02:29.385Z'
 dateModified: '2016-01-18T14:02:25.018Z'
 title: Duling Creative Logo Concepts
 author: []
