@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: Duling Creative was developed as a way to display my own personal work from the past as well as giving a glimpse into the future of where my art is going.
-datePublished: '2016-02-05T19:09:46.838Z'
-dateModified: '2016-02-05T19:09:31.988Z'
-title: Duling Creative
+description: ''
+datePublished: '2016-02-05T19:17:48.715Z'
+dateModified: '2016-02-05T19:17:43.261Z'
+title: ''
 author: []
 sourcePath: _posts/2016-01-12-duling-creative.md
 published: true
@@ -23,5 +23,3 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/398ebd24-b65e-473a-ba05-b99fb5641467.gif)
-
-Duling Creative was developed as a way to display my own personal work from the past as well as giving a glimpse into the future of where my art is going.
