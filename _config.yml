@@ -1,40 +1,40 @@
-name: Duling Creative
-favicon: null
-layout_spectrum: 0.24702
-typography_spectrum: 0.35289
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+layout_spectrum: 0.24702
 cta:
-  domain: null
   bucket: null
   version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+  domain: null
 color:
+  saturation: 1
+  brandStrength: 0.25
+  rhythmicContrast: 0.5
   brandColors:
     - '#ffffff'
     - '#343434'
     - '#6d6d6d'
     - '#909090'
     - '#d7d7d7'
-  brandStrength: 0.25
   lightness: 1
-  saturation: 1
-  rhythmicContrast: 0.5
 purpose: []
+favicon: null
+name: Duling Creative
+typography_spectrum: 0.35289
